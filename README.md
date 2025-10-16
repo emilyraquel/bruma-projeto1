@@ -1,5 +1,5 @@
 # ☕ Bruma Cafeteria
-*Site institucional moderno e responsivo para a ARQVISO, uma agência de arquitetura e design focada em projetos comerciais e residenciais sustentáveis.*
+*Site institucional moderno e responsivo para a aquivo, uma agência de arquitetura e design focada em projetos comerciais e residenciais sustentáveis.*
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -179,7 +179,7 @@ Confira a demonstração em vídeo do projeto Bruma Cafeteria:
 
 👉 Assista ao vídeo de demonstração
 
-(Se o vídeo estiver hospedado externamente — como no YouTube ou Google Drive — substitua o link acima pelo URL público.)
+https://youtu.be/GMH5YwC9VnY?si=Fl8y7C1VQiD_Blep
 
 🚀 Melhorias Futuras
 Implementar formulário de contato funcional;
